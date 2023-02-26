@@ -12,4 +12,4 @@ This learn and practice docs are primarly based on roadmap provided by [GFG](htt
 
 ## Time and Space Complexities
 
- Learned from course by [Faraz DSA Bootcamp](https://www.youtube.com/watch?v=w-2buncRuOg&list=PL3JFWXGvpQ0bDzk6ptE8vFJfuboNlEpNC) 
+ Learned from course by [Faraz DSA Bootcamp](https://www.youtube.com/watch?v=w-2buncRuOg&list=PL3JFWXGvpQ0bDzk6ptE8vFJfuboNlEpNC)
